@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginDemoApplication</string>
+    <string name="screenName">Login</string>
+    <string name="userName">Username:</string>
+    <string name="password">Password:</string>
+    <string name="forgotPassword"><a href='Forgot Password'>Forgot Password</a></string>
+</resources>
